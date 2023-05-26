@@ -1,2 +1,2 @@
-# Urban Mobility Analysis 
+# Urban Mobility Analysis in Cambridge using Gowalla dataset
 
